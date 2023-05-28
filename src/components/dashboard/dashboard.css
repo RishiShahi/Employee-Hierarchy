@@ -1,0 +1,51 @@
+.search {
+  display: flex;
+  justify-content: space-around;
+  margin: 2rem 0;
+}
+
+.home {
+  text-decoration: none;
+  color: black;
+  border: 1px solid black;
+  padding: 5px;
+}
+
+.search input {
+  outline: none;
+  padding: 10px 8px;
+  width: 50%;
+}
+
+.search button {
+  padding: 5px;
+}
+
+.dashboard > h1 {
+  margin: 1rem;
+}
+
+.category {
+  display: flex;
+  gap: 2rem;
+  padding: 0 2rem;
+  margin: 2rem 0;
+  justify-content: space-around;
+}
+
+.category > div {
+  width: 35%;
+}
+
+.category .btn {
+  cursor: pointer;
+  border: 1px solid black;
+  padding: 5px;
+  margin-bottom: 5px;
+}
+
+.view {
+  text-decoration: none;
+  color: black;
+  cursor: pointer;
+}

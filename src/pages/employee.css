@@ -1,0 +1,36 @@
+.formData {
+  border: 1px solid black;
+  display: flex;
+  flex-direction: column;
+  margin: 3rem auto;
+  padding: 3rem;
+  width: 500px;
+  gap: 1rem;
+}
+
+.formData input {
+  padding: 5px;
+  outline: none;
+}
+
+.formData button {
+  padding: 5px;
+  margin-top: 5px;
+}
+
+.formLink {
+  margin: 1rem auto;
+  text-decoration: none;
+  color: black;
+  display: block;
+  text-align: center;
+}
+
+.empDetails {
+  text-align: center;
+  margin: 2rem 0;
+}
+
+.empDetails > * {
+  margin-bottom: 20px;
+}

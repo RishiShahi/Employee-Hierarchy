@@ -1,0 +1,75 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "type": "admin",
+      "image": "public/images/user.png",
+      "name": "Simon Smith",
+      "profile": "Admin",
+      "location": "Store 14th floor"
+    },
+    {
+      "id": "2",
+      "type": "sales",
+      "image": "public/images/user.png",
+      "name": "Simon Smith",
+      "profile": "Sales",
+      "location": "Store 14th floor"
+    },
+    {
+      "id": "3",
+      "type": "sales",
+      "image": "./public/images/user.png",
+      "name": "Paul Smith update",
+      "profile": "Sales",
+      "location": "Store 14th floor"
+    },
+    {
+      "id": "4",
+      "type": "sales",
+      "image": "./public/images/user.png",
+      "name": "Rebecca Smith",
+      "profile": "Sales",
+      "location": "Store 14th floor"
+    },
+    {
+      "id": "7",
+      "type": "storeManager",
+      "image": "./public/images/user.png",
+      "name": "Simon Ruth",
+      "profile": "Store Manager",
+      "location": "Store 14th floor"
+    },
+    {
+      "id": "8",
+      "type": "storeManager",
+      "image": "./public/images/user.png",
+      "name": "Paul Ruth",
+      "profile": "Store Manager",
+      "location": "Store 14th floor"
+    },
+    {
+      "id": "09f273ac-9750-4005-b2a1-46dd13c2dc0e",
+      "type": "sales",
+      "name": "Jude Mag",
+      "profile": "Sales",
+      "location": "14 th street"
+    },
+    {
+      "id": "8f91f47a-a258-4837-a262-c5a5b6767763",
+      "type": "sales",
+      "image": "../../public/images/user.png",
+      "name": "Rita Jones",
+      "profile": "Sales",
+      "location": "17th street"
+    },
+    {
+      "id": "4d99898a-bbce-492d-a6f8-0b4989274cf5",
+      "type": "purchaseManager",
+      "image": "../../public/images/user.png",
+      "name": "Jude Aaron",
+      "profile": "Purchase Manger",
+      "location": "97 th street"
+    }
+  ]
+}
